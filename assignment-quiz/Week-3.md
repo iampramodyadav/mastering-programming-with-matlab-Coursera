@@ -114,9 +114,9 @@ function [a, b] = lin_reg(x,y)
 end
 ```
 ## Practice Quiz • Live Scripts
-1.Question How is a Live Script different from a regular script?
-*A Live Script combines regular text and MATLAB code. It allows the user to create a nicely formatted document with embedded code and the output of the code such as plots*.
-2.Question What are the parts that make up a Live Script called?
-*Sections*
-3.Question What is the file extension of Live Scripts?
-*mlx*
+1. Question How is a Live Script different from a regular script?
+* *A Live Script combines regular text and MATLAB code. It allows the user to create a nicely formatted document with embedded code and the output of the code such as plots*.
+2. Question What are the parts that make up a Live Script called?
+* *Sections*
+3. Question What is the file extension of Live Scripts?
+* *mlx*
