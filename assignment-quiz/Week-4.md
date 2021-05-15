@@ -94,8 +94,7 @@ NOT SOLVED
 -   *A linear time complexity algorithm may run slower than one with quadratic time complexity on the same input.*
 -   If I have nested loops in my program, the time complexity will be worse than linear by definition.
 -   If we double the input size of a linear time complexity algorithm, its run time will be at least twice as long.
-## PRACTICE QUIZPractice Quiz •  Vectorization and Other Speed Ups 
-## Practice Quiz
+## Practice Quiz •  Vectorization and Other Speed Ups 
 
 1.Question Which of the following statements is false?
 
